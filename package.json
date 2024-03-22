@@ -1,0 +1,21 @@
+{
+  "name": "Placen",
+  "displayName": "Placen",
+  "description": "Placen",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Placen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Placen-color-theme.json"
+      }
+    ]
+  }
+}
