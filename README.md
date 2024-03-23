@@ -1,7 +1,7 @@
-# Placen README
+lear# Placen README
 
 Themes colors followed
-![Alt text](relative%20path/to/public/theme-color.jpg "Color structure")
+![Alt text](relative%20path/to/public/theme-color.jpg) "Color structure")
 
 ## Working with Markdown
 
