@@ -1,19 +1,15 @@
-lear# Placen README
+
 
 Themes colors followed
-![Alt text](relative%20path/to/public/theme-color.jpg) "Color structure")
+<p>
+<h2>Followed color palette</h2>
+<img src="public/theme-color.jpg" alt="color palette" width="400"/>
+</p>
 
-## Working with Markdown
+<p>
+<h2>Screenshots</h2>
+<img src="public/ScreenShot1.png" alt="Sample screen shot" width="400"/>
+</p>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+If you have any suggestion or want to contribute. 
+please find me at <a href="[url](https://github.com/chouhan-abhi/)https://github.com/chouhan-abhi/Placens">Placens</a>
