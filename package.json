@@ -20,5 +20,9 @@
   },
   "dependencies": {
     "@vscode/vsce": "^2.24.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chouhan-abhi/Placens.git"
   }
 }
