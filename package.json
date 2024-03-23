@@ -2,6 +2,7 @@
   "name": "placen",
   "displayName": "Placen",
   "description": "Placen",
+  "publisher": "Dracket",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.87.0"
