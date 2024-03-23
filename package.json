@@ -4,7 +4,7 @@
   "description": "Placen",
   "publisher": "Dracket",
   "icon": "public/extension-icon.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.87.0"
   },
