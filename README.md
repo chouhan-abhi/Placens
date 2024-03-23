@@ -1,6 +1,3 @@
-
-
-Themes colors followed
 <p>
 <h2>Followed color palette</h2>
 <img src="public/theme-color.jpg" alt="color palette" width="400"/>
@@ -8,7 +5,7 @@ Themes colors followed
 
 <p>
 <h2>Screenshots</h2>
-<img src="public/ScreenShot1.png" alt="Sample screen shot" width="400"/>
+<img src="public/ScreenShot1.png" alt="Sample screen shot" width="800"/>
 </p>
 
 If you have any suggestion or want to contribute. 
