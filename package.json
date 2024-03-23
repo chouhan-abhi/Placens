@@ -1,5 +1,5 @@
 {
-  "name": "Placen",
+  "name": "placen",
   "displayName": "Placen",
   "description": "Placen",
   "version": "0.0.1",
@@ -17,5 +17,8 @@
         "path": "./themes/Placen-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "@vscode/vsce": "^2.24.0"
   }
 }
