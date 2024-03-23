@@ -3,7 +3,7 @@
   "displayName": "Placen",
   "description": "Placen",
   "publisher": "Dracket",
-  "icon": "https://github.com/chouhan-abhi/Placens/blob/main/public/extension-icon.png?raw=true",
+  "icon": "public/extension-icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.87.0"
