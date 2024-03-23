@@ -1,5 +1,8 @@
 # Placen README
 
+Themes colors followed
+![Alt text](relative%20path/to/public/theme-color.jpg "Color structure")
+
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
