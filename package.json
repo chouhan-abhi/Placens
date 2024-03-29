@@ -14,7 +14,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Placen",
+        "label": "Placen Day",
+        "uiTheme": "vs",
+        "path": "./themes/Placen-color-theme-light.json"
+      },
+      {
+        "label": "Placen Night",
         "uiTheme": "vs-dark",
         "path": "./themes/Placen-color-theme.json"
       }
