@@ -1,7 +1,7 @@
 {
 	"name": "Placens-light",
 	  "$schema": "vscode://schemas/color-theme",
-	  "type": "dark",
+	  "type": "light",
 	  "colors": {
 		"activityBar.background": "#D8D8D8",
 		"activityBar.border": "#D8D8D860",
