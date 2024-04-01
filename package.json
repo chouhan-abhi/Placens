@@ -41,6 +41,8 @@
     "dark",
     "light",
     "minimal",
-    "soothing"
+    "soothing",
+    "ios",
+    "mac"
   ]
 }
